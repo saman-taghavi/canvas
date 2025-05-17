@@ -25,3 +25,5 @@ logs
 rt_base
 
 .history
+bun.lock
+pnpm-lock.yaml
